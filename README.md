@@ -1,1 +1,1 @@
-#Artifical Intelligence Homework Assignment
+# Artifical Intelligence Homework Assignment
