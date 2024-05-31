@@ -1,1 +1,1 @@
-# IA_Homework_2024
+#Artifical Intelligence Homework Assignment
